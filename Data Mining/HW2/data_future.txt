@@ -1,0 +1,3 @@
+Age_08_04	KM	HP	Met_Color	Automatic	CC	Doors	Quarterly_Tax	Weight	Fuel_Type_CNG	Fuel_Type_Diesel	Fuel_Type_Petrol	Fuel_Type
+25	25510	95	1	0	1100	3	95	900	0	0	1	Petrol
+73	53144	140	1	0	1300	5	89	1020	0	0	1	Petrol

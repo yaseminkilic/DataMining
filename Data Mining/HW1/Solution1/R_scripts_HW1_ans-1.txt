@@ -1,0 +1,5 @@
+#http://cran.r-project.org/web/packages/plot3D/vignettes/plot3D.pdf
+library(plot3D);
+
+mydata <- read.table("data_1.txt", header = TRUE)
+scatter3D(mydata$KM, mydata$Weight, mydata$Price, xlab='KM', ylab='Weight', zlab='Price')
