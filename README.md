@@ -1,2 +1,1 @@
-# DataMining
-Hanyang University Lecture's Homeworks
+#Hanyang University Lecture's Homeworks
